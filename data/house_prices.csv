@@ -1,0 +1,21 @@
+Area,Bedrooms,Bathrooms,Age,Parking,Location,Furnished,PropertyType,Price
+800,2,1,10,0,Hyderabad,Unfurnished,Apartment,3500000
+1000,2,2,8,1,Hyderabad,Semi-Furnished,Apartment,4500000
+1200,2,2,6,1,Hyderabad,Furnished,Apartment,5500000
+1400,3,2,5,1,Hyderabad,Semi-Furnished,Apartment,6500000
+1500,3,2,4,1,Hyderabad,Furnished,Apartment,7200000
+1600,3,3,3,2,Hyderabad,Furnished,Villa,8200000
+1800,3,3,2,2,Hyderabad,Furnished,Independent House,9500000
+2000,4,3,3,2,Hyderabad,Semi-Furnished,Villa,10500000
+2200,4,4,2,2,Hyderabad,Furnished,Villa,12000000
+2500,4,4,1,2,Hyderabad,Furnished,Independent House,14000000
+900,2,1,12,0,Karimnagar,Unfurnished,Apartment,2800000
+1100,2,2,7,1,Karimnagar,Semi-Furnished,Apartment,3800000
+1300,3,2,5,1,Karimnagar,Furnished,Apartment,4800000
+1500,3,2,4,1,Karimnagar,Semi-Furnished,Independent House,5500000
+1700,3,3,3,2,Karimnagar,Furnished,Independent House,6800000
+1000,2,2,6,1,Warangal,Semi-Furnished,Apartment,4000000
+1250,3,2,5,1,Warangal,Furnished,Apartment,5000000
+1550,3,3,3,2,Warangal,Furnished,Independent House,6500000
+1900,4,3,2,2,Warangal,Furnished,Villa,8500000
+2100,4,4,1,2,Warangal,Furnished,Villa,9800000
